@@ -2,9 +2,9 @@
 ReactNative 学习记录
 
 ### 基础
-1. 安装以及配置环境
-2. React基础
-3. 组件使用
+1. [安装以及配置环境](https://reactnative.cn/docs/getting-started/)
+2. [React基础](https://react.docschina.org/docs/thinking-in-react.html)
+3. [组件使用](./articles/zujianshiyong.md)
 4. CSS布局
 
 ### React相关插件
